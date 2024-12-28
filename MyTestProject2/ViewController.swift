@@ -19,6 +19,7 @@ class ViewController: UIViewController {
             print(num)
             print(num)
         }
+        print("test test test")
     }
 
 
