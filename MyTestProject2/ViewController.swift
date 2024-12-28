@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         for num in myArray {
             print(num)
+            print(num)
         }
     }
 
